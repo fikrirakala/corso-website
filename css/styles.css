@@ -13,3 +13,9 @@
     margin: 0 auto;
   }
 }
+/* Summary */
+@media (max-width: 992px) {
+  .summary {
+    width: 90% !important;
+  }
+}
